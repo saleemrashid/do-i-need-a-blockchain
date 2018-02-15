@@ -1,0 +1,5 @@
+html, body {
+    /* GitHub's font stack */
+    font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
+    font-size: 12px;
+}
